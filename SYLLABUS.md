@@ -15,7 +15,7 @@ Module 2: LLM Architecture and Training
 
 Module 3: The application of LLMs
 
-Module 4: Case Studies (AI Classroom, RAG, Course Agent)
+Module 4: Case Studies (AI University, RAG, Course Agent)
 
 ## Hands-On Labs:
 
@@ -25,9 +25,9 @@ Lab 2: Fine-tuning a pre-trained GPT model for text generation
 
 Lab 3: Implementing distributed training using PyTorch
 
-Lab 4: Optimizing memory usage with mixed precision training
+Lab 4: Buiding RAG system with LangChain
 
-Lab 5: Building a multimodal model for image captioning
+Lab 5: Building a multi-agent (AI University)
 
 ## Assessment and Grading:
 
