@@ -1,11 +1,17 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from transformers import pipeline
 import torch
+import torch.quantization
 
 # model_name = "Qwen/Qwen2.5-14B-Instruct-1M"
 model_name = "deepseek-ai/DeepSeek-R1-Distill-Qwen-32B"
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 model = AutoModelForCausalLM.from_pretrained(model_name, torch_dtype=torch.float16, device_map="cpu")
+
+# 量化可以将模型从 FP32 转换为 INT8，从而减少计算量和内存占用，显著提升推理速度
+model = torch.quantization.quantize_dynamic(
+    model, {torch.nn.Linear}, dtype=torch.qint8
+)
 
 prompt = "请谈谈大预言模型的发展与未来"
 input = tokenizer(prompt, return_tensors="pt").to(model.device)
