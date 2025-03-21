@@ -1,6 +1,6 @@
 # Books
 
-1 《The foundation of LLM》 given by Yuren Mao from Zhejiang Univ. 
+1 《The foundation of LLM》 authored by Yuren Mao from Zhejiang Univ. 
 
 
 # Surveys
