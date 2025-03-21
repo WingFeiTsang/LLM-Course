@@ -25,6 +25,7 @@
 
 7 LLaMA 2 《LLaMA 2 Open Foundation and Fine-Tuned Chat Models》
 
-8 
+8 DeepSeek R1 《DeepSeek-R1 Incentivizing Reasoning Capability in LLMs via Reinforcement Learning》
 
+9 DeepSeek V3 《DeepSeek-V3 Technical Report》
 
