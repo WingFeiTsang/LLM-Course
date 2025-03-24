@@ -2,6 +2,8 @@
 
 1 《The foundation of LLM》 authored by Yuren Mao from Zhejiang Univ. 
 
+2 《Deep Learning with Python》 2rd Edn  This book is recommended to fresh learners of deep learning. 
+
 
 # Surveys
 1 《A Survey of Large Language Models》 This paper summarize some background and details of LLM trainings. It is a good material for the beginners of LLM, but it doesn't include some advance topics,such as jailbreak, rag, aigent, etc. 
