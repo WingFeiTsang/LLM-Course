@@ -13,7 +13,7 @@ Module 1: Introduction to Large Language Models
 
 Module 2: LLM Architecture and Training
 
-Module 3: The application of LLMs
+Module 3: The Application Adaption of LLMs
 
 Module 4: Case Studies (AI University, RAG, Course Agent)
 
