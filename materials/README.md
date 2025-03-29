@@ -10,7 +10,7 @@
 
 2 《Retrieval-Augmented Generation for Large Language Models: A Survey》
 
-3 《》
+3 《A Systematic Survey of Prompt Engineering in Large Language Models: Techniques and Applications》
 
 # Papers
 1 《Transformer Attention Is All You Need》This paper describes the details of Transformer architecture. 
