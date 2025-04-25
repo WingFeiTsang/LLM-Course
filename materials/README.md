@@ -16,6 +16,8 @@
 
 5 《Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey》
 
+6 《A Survey on Efficient Inference for Large Language Models》
+
 # Papers
 1 《Transformer Attention Is All You Need》This paper describes the details of Transformer architecture. 
 
